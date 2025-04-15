@@ -8,9 +8,9 @@ Image Super-Resolution (SR) is a critical image processing technique aimed at im
 
 Despite the importance of SR, existing techniques still face several limitations:
 
-1. **Handling Unknown Degradation** 
-2. **Generalization Across Domains** 
-3. **Recovering Fine Details** 
+- **Handling Unknown Degradation** 
+- **Generalization Across Domains** 
+- **Recovering Fine Details** 
 
 Traditional approaches like interpolation and reconstruction-based methods often produce subpar results, prompting the use of deep learning models for SR. However, deep learning models come with their own set of issues, such as:
 
@@ -24,9 +24,9 @@ Traditional approaches like interpolation and reconstruction-based methods often
 
 This research aims to conduct a comprehensive comparative analysis of three popular deep learning-based Super-Resolution models:
 
-1. **Super-Resolution Convolutional Neural Networks (SRCNN)**
-2. **SwinIR**
-3. **Real-ESRGAN**
+- **Super-Resolution Convolutional Neural Networks (SRCNN)**
+- **SwinIR**
+- **Real-ESRGAN**
 
 The models are evaluated across multiple image domains, including Animals, Cars, Faces, Humans, Landscapes, and Ships, using different scaling factors (x2, x3, x4). 
 
