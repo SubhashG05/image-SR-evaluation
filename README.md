@@ -1,10 +1,12 @@
 # Image Super-Resolution (SR) Model Evaluation
 
-![Model Flow](Research%20Framework.PNG)
-
 ## Problem Statement
 
-Image Super-Resolution (SR) is a critical image processing technique aimed at improving the resolution of low-resolution images to generate high-resolution images. This technique is essential in various applications, including medical imaging, forensic analysis, satellite imagery, and more. Despite the importance of SR, existing techniques still face several limitations:
+Image Super-Resolution (SR) is a critical image processing technique aimed at improving the resolution of low-resolution images to generate high-resolution images. This technique is essential in various applications, including medical imaging, forensic analysis, satellite imagery, and more. 
+
+![Model Flow](Research%20Framework.PNG)
+
+Despite the importance of SR, existing techniques still face several limitations:
 
 1. **Handling Unknown Degradation** 
 2. **Generalization Across Domains** 
