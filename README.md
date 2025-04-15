@@ -4,7 +4,7 @@
 
 Image Super-Resolution (SR) is a critical image processing technique aimed at improving the resolution of low-resolution images to generate high-resolution images. This technique is essential in various applications, including medical imaging, forensic analysis, satellite imagery, and more. 
 
-![Model Flow](Research%20Framework.PNG)
+![Model Flow](Aim%20of%20the%20Project.PNG)
 
 Despite the importance of SR, existing techniques still face several limitations:
 
@@ -19,6 +19,8 @@ Traditional approaches like interpolation and reconstruction-based methods often
 - **Dependency on Fixed Scaling Factors** 
 
 ## Research Objective
+
+![Model Flow](Research%20Framework.PNG)
 
 This research aims to conduct a comprehensive comparative analysis of three popular deep learning-based Super-Resolution models:
 
