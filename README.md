@@ -1,6 +1,6 @@
 # Image Super-Resolution (SR) Model Evaluation
 
-![Model Flow](Research%20Model%20Flow%20Diagram2.jpg)
+![Model Flow](Research%20Framework.PNG)
 
 ## Problem Statement
 
